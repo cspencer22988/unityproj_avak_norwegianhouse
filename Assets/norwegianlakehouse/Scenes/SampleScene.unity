@@ -264,13 +264,28 @@ GameObject:
   - component: {fileID: 7535901060646201639}
   - component: {fileID: 7562473032563039050}
   - component: {fileID: 7552589335294754548}
-  m_Layer: 0
+  - component: {fileID: 7530252362752135519}
+  m_Layer: 14
   m_Name: A_NorwegianLakeHouse (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!64 &7530252362752135519
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7530252362752135518}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Convex: 0
+  m_CookingOptions: 14
+  m_Mesh: {fileID: 4300000, guid: 5a089189064c6d74bb2a6e9cf01c8550, type: 2}
 --- !u!1 &7530263834542043391
 GameObject:
   m_ObjectHideFlags: 0
@@ -607,13 +622,28 @@ GameObject:
   - component: {fileID: 7535887401094087513}
   - component: {fileID: 7561874276453217851}
   - component: {fileID: 7554324838029241809}
-  m_Layer: 0
+  - component: {fileID: 7530760462955076372}
+  m_Layer: 14
   m_Name: Exterior (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!64 &7530760462955076372
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7530760462955076371}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Convex: 0
+  m_CookingOptions: 14
+  m_Mesh: {fileID: 4300000, guid: c485b69cace75ab49a55cd127bacba45, type: 2}
 --- !u!1 &7530789446841378945
 GameObject:
   m_ObjectHideFlags: 0
@@ -659,13 +689,28 @@ GameObject:
   - component: {fileID: 7532854444892307632}
   - component: {fileID: 7562424139914639869}
   - component: {fileID: 7554514995554481737}
-  m_Layer: 0
+  - component: {fileID: 7530811308005440057}
+  m_Layer: 14
   m_Name: Box001 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!64 &7530811308005440057
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7530811308005440056}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Convex: 0
+  m_CookingOptions: 14
+  m_Mesh: {fileID: 4300000, guid: abf8e909217c0c44dad414b38248366e, type: 2}
 --- !u!1 &7530856451487496529
 GameObject:
   m_ObjectHideFlags: 0
